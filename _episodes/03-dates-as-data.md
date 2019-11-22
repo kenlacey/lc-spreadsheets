@@ -49,7 +49,7 @@ Let's try with a simple challenge.
 
 > 
 > (Make sure the new column is formatted as a number and not as a date.)
-> > ##Solution
+> > ##Solution:
 > > ```
 > > =MONTH(A3)
 > > =DAY(A3)
