@@ -50,12 +50,12 @@ Let's try with a simple challenge.
 > (Make sure the new column is formatted as a number and not as a date.)
 {: .challenge}
 
-> > ##Solution:
-> > ```
-> > =MONTH(A3)
-> > =DAY(A3)
-> > =YEAR(A3)
-> >```
+> ## Solution:
+> ```
+> =MONTH(A3)
+> =DAY(A3)
+> =YEAR(A3)
+>```
 {: .solution}
 
 > ## Discussion
