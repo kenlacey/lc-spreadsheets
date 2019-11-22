@@ -62,11 +62,10 @@ up into a usable form. The example below depicts the problem:
 
 ![multiple tables](../fig/02-01-Multiple_tables.png)
 
-> ## Solution:
-> ```
+## Solution: {#tablesolution}
+
  ![multiple tables](../fig/02-02-Combined_multiple_tables.png)
->```
-{: .solution}
+
 
 ## Multiple tabs {#tabs}
 
