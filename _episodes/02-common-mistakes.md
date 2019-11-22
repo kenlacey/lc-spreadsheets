@@ -64,7 +64,7 @@ up into a usable form. The example below depicts the problem:
 
 > ## Solution:
 > ```
-> ![multiple tables](../fig/02-02-Combined_multiple_tables.png)
+ ![multiple tables](../fig/02-02-Combined_multiple_tables.png)
 >```
 {: .solution}
 
