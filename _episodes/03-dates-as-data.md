@@ -46,11 +46,10 @@ Let's try with a simple challenge.
 > - In the `Dates` tab of your Excel file you have some more training data from 2017. There's a `date` column.
 > - Let’s extract month and year from the dates to new columns. For this we can use the built in Excel functions
 > 
-
 > 
 > (Make sure the new column is formatted as a number and not as a date.)
-
 {: .challenge}
+
 > > ##Solution:
 > > ```
 > > =MONTH(A3)
