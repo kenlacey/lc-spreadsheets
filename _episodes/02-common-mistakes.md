@@ -109,18 +109,18 @@ The spreadsheets or statistical programs will likely mis-interpret blank cells t
 
 From White et al, 2013, [Nine simple ways to make it easier to (re)use your data.](https://ojs.library.queensu.ca/index.php/IEE/article/view/4608) Ideas in Ecology and Evolution:
 
-![White et al.](../fig/3_white_table_1.jpg)
+![White et al.](../fig/02-04-Null_Values.png)
 
 
 ## Using formatting to convey information  {#formatting}
 
 **Example**: highlighting cells, rows or columns that should be excluded from an analysis, leaving blank rows to indicate separations in data.
 
-![formatting](../fig/formatting.png)
+![formatting](../fig/02-05-highlighting_cells_for_formatting.png)
 
 **Solution**: create a new field to encode which data should be excluded.
 
-![good formatting](../fig/good_formatting.png)
+![good formatting](../fig/02-06-adding_cell_to_overcome_formatting.png)
 
 
 ## Using formatting to make the data sheet look pretty {#formatting_pretty}
@@ -134,6 +134,8 @@ From White et al, 2013, [Nine simple ways to make it easier to (re)use your data
 
 **Example**: Your data was collected, in part, by a summer student who you later found out was mis-recording the duration of training sessions, some of the time. You want a way to note these data are suspect.
 
+![cell comments](../fig/02-07-Cell_comment.png)
+
 **Solution**: Most statistical programs can’t see Excel’s comments, and would be confused by comments placed within your data cells. As described above for formatting, create another field if you need to add notes to cells. Similarly, don’t include units in cells (such as "hours"): ideally, all the units or measurements you place in one column should be in the same, but if for some reason they aren’t, create another field and specify the units.
 
 
@@ -142,10 +144,10 @@ From White et al, 2013, [Nine simple ways to make it easier to (re)use your data
 **Example**: 
 You had multiple instructors delivering the workshop. For example, you enter this as GQ & DF.
 
+![multiple data in cell](../fig/02-08-multiple_instructors.png)
+
 **Solution**: 
 Never include more than one piece of information in a cell. If you need both these instructor initials, design your data sheet to include this information.
-
-
 
 ## Field name problems {#field_name}
 Choose descriptive field names, but be careful not to include: spaces, numbers, or special characters of any kind. Spaces can be misinterpreted by parsers that use whitespace as delimiters and some programs don’t like field names that are text strings that start with numbers.
