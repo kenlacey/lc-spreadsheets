@@ -60,8 +60,13 @@ row as an observation. You’re also potentially using the same field
 name in multiple places, which will make it harder to clean your data
 up into a usable form. The example below depicts the problem:
 
-![multiple tabs](../fig/2_datasheet_example.jpg)
+![multiple tables](../fig/02-01-Multiple_tables.png)
 
+> ## Solution:
+> ```
+> ![multiple tables](../fig/02-02-Combined_multiple_tables.png)
+>```
+{: .solution}
 
 ## Multiple tabs {#tabs}
 
