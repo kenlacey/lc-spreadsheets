@@ -49,6 +49,8 @@ Let's try with a simple challenge.
 
 > 
 > (Make sure the new column is formatted as a number and not as a date.)
+
+{: .challenge}
 > > ##Solution:
 > > ```
 > > =MONTH(A3)
@@ -56,7 +58,6 @@ Let's try with a simple challenge.
 > > =YEAR(A3)
 > >```
 {: .solution}
-{: .challenge}
 
 > ## Discussion
 >
