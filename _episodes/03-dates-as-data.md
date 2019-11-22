@@ -51,11 +51,7 @@ Let's try with a simple challenge.
 {: .challenge}
 
 > ## Solution:
-> ```
-> =MONTH(A3)
-> =DAY(A3)
-> =YEAR(A3)
->```
+![extract day month year](../fig/03-01-extract-DD-MM-YYYY.png)
 {: .solution}
 
 > ## Discussion
