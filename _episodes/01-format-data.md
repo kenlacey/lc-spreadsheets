@@ -72,7 +72,7 @@ you **must:**
 
 This might be an example of a spreadsheet setup:
 
-![spreadsheet setup](../fig/spreadsheet-setup.png)
+![spreadsheet setup](../fig/01-01-notes-tracking changes.png)
 
 We will put these principles into practice today during your exercises.
 
@@ -101,7 +101,7 @@ delivered the workshop.
 
 If they were to keep track of the data like this:
 
-![multiple-info example](../fig/multiple-info.png)
+![multiple-info example](../fig/01-02-RDM-workshop-data.png)
 
 the problem is that the number of attendees of different types (post-graduate
 researcher (PGR), post-doctoral research associate (PDRA), and other) are in
@@ -117,7 +117,7 @@ variables**, **rows = observations**, **cells = data** (values).
 
 So, instead we should have:
 
-![single-info example](../fig/single-info.png)
+![single-info example](../fig/01-03-RDM-workshop-tidied.png)
 
 > ## Exercise
 >
