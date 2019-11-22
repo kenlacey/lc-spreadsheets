@@ -117,9 +117,10 @@ From White et al, 2013, [Nine simple ways to make it easier to (re)use your data
 
 ![formatting](../fig/02-05-highlighting_cells_for_formatting.png)
 
-**Solution**: create a new field to encode which data should be excluded.
-
-![good formatting](../fig/02-06-adding_cell_to_overcome_formatting.png)
+> ## Solution:
+> create a new field to encode which data should be excluded.
+> ![good formatting](../fig/02-06-adding_cell_to_overcome_formatting.png)
+{: .solution}
 
 
 ## Using formatting to make the data sheet look pretty {#formatting_pretty}
